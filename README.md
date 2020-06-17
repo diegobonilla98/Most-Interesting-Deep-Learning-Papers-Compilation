@@ -13,4 +13,6 @@ Although I recommend reading all of them, here are some topics the papers are ab
 - ect...
 
 
+###### Disclaimer
+I do not take any credit for those papers. It's just a compilation of public access papers I've found intereting. Authors should get all the recognition for their work.
 
